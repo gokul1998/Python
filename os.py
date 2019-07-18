@@ -5,7 +5,7 @@ def search(f,inp):
         if lines.find(inp)!=-1:
             return True
     return False
-    
+#hello    
 inp = input("enter a string")
 a = os.walk("/Users/gokulakrishnan.parir/Desktop/")
 for i,j,k in a:
